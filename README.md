@@ -6,9 +6,14 @@ I am also a very pragmatic person. My work is aimed at delivering high returns o
 
 I have always been fascinated by the way our brains work (neurologically and socially). Reading about Gaia in Asimov's "Foundation's Edge" as a kid sparkled this constant chase to understand more about learning in human and computer brains. I guess this quest for understanding the human mind has made me a much better people manager.
 
-## [Recent Projects](./projects/projects.md)
+## Recent Projects
+
+See recent list [here](./projects/projects.md)
 
 ## Teaching
+
+- Cloud computing (data management techniques)
+- Applied data science (graph databases)
 
 ### Cloud Computing
 
@@ -16,4 +21,5 @@ I have always been fascinated by the way our brains work (neurologically and soc
 
 ## Contact
 
-University of Bristol (Clifton Campus) [Uni website](http://www.bristol.ac.uk/engineering/people/luis-m-vaquero-gonzalez/index.html) or [Linkedin](https://uk.linkedin.com/in/luis-m-vaquero-7052415).
+[University of Bristol](http://www.bristol.ac.uk/engineering/people/luis-m-vaquero-gonzalez/index.html)
+[Linkedin](https://uk.linkedin.com/in/luis-m-vaquero-7052415).
