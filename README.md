@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+## Luis Vaquero (about me) - "This world is but a canvas to our imagination" Henry David Thoreau
 
-You can use the [editor on GitHub](https://github.com/lmvaquero/lmvaquero.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Curiosity is the word that probably best describes my character. I have worked on social constructivism theories and their relation to computers, performed experiments on animals to measure the electrical activity of excitable cells, deployed large cloud computing environments for big telcos, and large-scale analytic systems for large IT corporations. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am also a very pragmatic person. My work is aimed at delivering high returns on investment: driven by customer obsesion as a practicioner and love for challenging conventional wisdom as an academic 
 
-### Markdown
+I have always been fascinated by the way our brains work (neurologically and socially). Reading about Gaia in Asimov's "Foundation's Edge" as a kid sparkled this constant chase to understand more about learning in human and computer brains. I guess this quest for understanding the human mind has made me a much better people manager.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Recent Projects
 
-```markdown
-Syntax highlighted code block
+### Ongoing
 
-# Header 1
-## Header 2
-### Header 3
+#### Machine Learning to Automate Distributed System Configuration
 
-- Bulleted
-- List
+#### Graph Analytics for Software Test Automation
 
-1. Numbered
-2. List
+In collaboration with [QMUL](http://eecs.qmul.ac.uk/~fcuadrado/) and [Amazon AWS](https://www.linkedin.com/in/michael-tautschnig-04064b45/)
 
-**Bold** and _Italic_ and `Code` text
+#### Machine Learning and Security on Serverless Infrastructures
 
-[Link](url) and ![Image](src)
-```
+In collaboration with [Oracle](https://uk.linkedin.com/in/gviedma)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Previous Projects
 
-### Jekyll Themes
+#### Graph Analytics without Graphs!! 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lmvaquero/lmvaquero.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Sped up graph queries on graph dbs (100x faster than native graph DB leaders.
 
-### Support or Contact
+[Source Code](https://github.com/cytosm)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Slides](https://es.slideshare.net/secret/ccftFBuzzGtFX4)
+
+[Benchmarks](https://github.com/Alnaimi-/database-benchmark)
+
+[Paper](https://event.cwi.nl/grades/2017/04-Steer.pdf)
+
+#### Interactive Visual Exploration Techniques (IVET): where the frontend and the backend meet analytics
+
+[Source Code](https://github.com/HewlettPackard/loom)
+
+[Paper](https://www.sciencedirect.com/science/article/pii/S0167739X16303843)
+
+[Article] (http://h30507.www3.hp.com/t5/Innovation-HP-Labs/Introducing-Loom-A-new-tool-for-managing-complex-systems/ba-p/167748#.VFYfFPmsUzE)
+
+[Video] (https://www.youtube.com/watch?v=vutp0VP4EQY)
+
+#### Rule Hypervolume Overlaps to Remove Redundance in Rule-based Systems
+Takes rules from any system (IP tables, routing policies, IDS rules, etc.) to detect duplicated rules and reduce load on the rule engine. The system creates a hyperspace for the rules and detected hypevolume overlaps building on a modified Jaccard similarity algo.
+
+[Slides](https://es.slideshare.net/secret/KTmS7dvN5PgA8y)
+
+[Patent1](https://patents.google.com/patent/WO2017188987A2/)
+
+[Patent2](https://patents.google.com/patent/WO2017188986A1/)
+
+## Teaching
+
+### Cloud Computing
+
+### Applied data science
+
+## Contact
+
+University of Bristol (Clifton Campus) [Uni website](http://www.bristol.ac.uk/engineering/people/luis-m-vaquero-gonzalez/index.html) or [Linkedin](https://uk.linkedin.com/in/luis-m-vaquero-7052415).
