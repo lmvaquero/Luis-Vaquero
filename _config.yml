@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+# Name of your site (displayed in the header)
+name: Luis Vaquero
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://avatars3.githubusercontent.com/u/35458522?s=400&u=4eb751874fc4ba96402fd9d22032e7d64c4858da&v=4
