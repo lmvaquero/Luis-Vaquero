@@ -22,4 +22,5 @@ See recent list [here](./projects/projects.md)
 ## Contact
 
 [University of Bristol](http://www.bristol.ac.uk/engineering/people/luis-m-vaquero-gonzalez/index.html)
+
 [Linkedin](https://uk.linkedin.com/in/luis-m-vaquero-7052415).
